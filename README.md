@@ -51,6 +51,6 @@ Hey there! I'm Aditya Pal, passionate about cloud technologies and DevOps. Skill
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/adityapal/adityapal/output/snake.svg" alt="Snake animation" />
+<img src="![GitHub Snake](https://raw.githubusercontent.com/pal-aditya/pal-aditya/output/snake.svg)" alt="Snake animation" />
 
 ###
