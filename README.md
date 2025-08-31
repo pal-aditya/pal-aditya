@@ -32,20 +32,11 @@ Hey there! I'm Aditya Pal, passionate about cloud technologies and DevOps. Skill
 
 <div align="center">
   <!-- GitHub Stats with All-Time Commits -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=adityapal&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" 
-    height="150" 
-    alt="GitHub Stats" 
-  />
-  
-  <!-- Languages Across ALL Repositories -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapal&layout=compact&langs_count=20&theme=dark&hide_border=false" 
-    height="150" 
-    alt="Languages Used" 
-  />
-</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapandit1798&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapandit1798&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
